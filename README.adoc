@@ -1,0 +1,24 @@
+= User Stories
+
+== CRUD
+
+=== Story 1 :: Create Employee
+*As* a User +
+*I want* to create record for myself +
+*So that* I can save my information
+
+=== Story 2 :: Read Employees
+*As* a System +
+*I want* to get employee list
+*So that* I can examine
+
+=== Story 3 :: Update Employee
+*As* a User +
+*I want* to update my record
+*So that* I can edit my information
+
+=== Story 4 :: Delete Employee
+*As* a System +
+*I want* to deregister a person who is not working at the company. + 
+*So that* I can update the employee list
+

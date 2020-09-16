@@ -35,3 +35,4 @@ out/
 
 ### Project ###
 bin
+.DS_Store

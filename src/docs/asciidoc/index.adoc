@@ -1,0 +1,38 @@
+= Spring Rest With Restdocs
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+
+== Employees
+=== POST
+==== Request with Curl
+include::{snippets}/create-employee/curl-request.adoc[]
+
+==== Request with HttPie
+One showing how to make a request using HTTPie:
+include::{snippets}/create-employee/httpie-request.adoc[]
+
+==== Http Request
+One showing the HTTP Request:
+include::{snippets}/create-employee/http-request.adoc[]
+
+==== Http Request Body
+One showing the request body:
+include::{snippets}/create-employee/request-body.adoc[]
+
+==== Http Request Fields
+include::{snippets}/create-employee/request-fields.adoc[]
+
+==== Http Response
+One showing the HTTP response:
+include::{snippets}/create-employee/http-response.adoc[]
+
+==== Http Response Body
+And one showing the response body:
+include::{snippets}/create-employee/response-body.adoc[]
+
+==== Http Response Fields
+include::{snippets}/create-employee/response-fields.adoc[]
